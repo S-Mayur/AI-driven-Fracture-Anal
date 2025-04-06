@@ -1,2 +1,2 @@
-# AI-driven-Fracture-Anal
-An AI-based app that detects bone fractures from X-ray images using a custom-trained CNN. It shows predictions with confidence, offers multilingual voice-over and translations, and visualizes bones in 3D to aid diagnosis and user understanding
+# AI-driven-Fracture-Analysis
+Bone Fracture Detection App is an AI-powered desktop application that analyzes X-ray images to detect bone fractures with high accuracy. It uses a custom-trained convolutional neural network (CNN) to classify images as "fractured" or "not fractured" and provides a confidence score along with a friendly explanation. The app supports multilingual voice-over, result translation, and 3D bone visualization from 2D X-rays using Open3D. It's designed to assist both medical professionals and patients in early fracture detection and awareness.
